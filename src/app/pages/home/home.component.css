@@ -1,0 +1,11 @@
+.home__container {
+  color: aliceblue;
+  margin: auto;
+  padding-top: 50px;
+  width: 90%;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
