@@ -1,4 +1,7 @@
-# Store
+# Angular PlayStation Store clone
+
+## Desafio de Clone da PlayStation Store Angular da DIO.
+## Clique em [Angular-PSN-Store-clone](https://hebertfb.github.io/angular-psn-store/) para visualizar o projeto.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
